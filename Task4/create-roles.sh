@@ -1,0 +1,1 @@
+kubectl apply -n propdevelopment -f roles.yaml
