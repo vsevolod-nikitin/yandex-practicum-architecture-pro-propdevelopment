@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36">
+  <diagram name="Страница — 1" id="ReCmaqptstIB5FQ_kGHC">
+    <mxGraphModel dx="1664" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-10" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-11" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-12" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-13" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Безопасность данных" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-17" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Публичные данные" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-16" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Внутренние данные" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-15" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конфиденциальные данные" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-14" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Секретные данные" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-29" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;Информация об объектах недвижимости&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Сведения о компании&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Информация об услугах&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-31" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;&quot;&gt;Информация о бронировании и осмотре&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Информация о работе и сотрудниках&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Аналитические отчеты&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-33" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Персональные данные пользователей&lt;div&gt;Финансовая отчетность&lt;/div&gt;&lt;div&gt;Информация о договорах&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-35" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;Пароли и реквизиты доступа&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Сертификаты и криптографические ключи&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-30" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Потеря данных (незначительный)&lt;div&gt;Искажение данных (значительный)&lt;/div&gt;&lt;div&gt;Некачественные данные (значительный)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="760" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Публичные данные не должны быть искажены, т.к. это может повлечь финансовые и репутационные потери." vertex="1">
+          <mxGeometry height="120" width="200" x="1080" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-32" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Утечка данных (значительный)&lt;div&gt;Потеря данных (значительный)&lt;/div&gt;&lt;div&gt;Искажение данных (критический)&lt;/div&gt;&lt;div&gt;Некачественные данные (значительный)&lt;/div&gt;&lt;div&gt;Обесценивание данных (значительный)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="760" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Данные необходимы для функционирования компании, потеря или искажение нарушит внутренние процессы, приведет к снижению эффективности и неверным решениям." vertex="1">
+          <mxGeometry height="120" width="200" x="1080" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-34" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Утечка данных (критический)&lt;div&gt;Потеря данных (критический)&lt;/div&gt;&lt;div&gt;Искажение данных (критический)&lt;/div&gt;&lt;div&gt;Некачественные данные (значительный)&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="760" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-36" edge="1" parent="1" source="Y333cKRLgZ88Y45ONLLd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y333cKRLgZ88Y45ONLLd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Утечка данных (критический)&lt;div&gt;Потеря данных (критический)&lt;/div&gt;&lt;div&gt;Искажение данных (критический)&lt;/div&gt;&lt;div&gt;Некачественные данные (значительный)&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="760" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Проблемы при работе с конфиденциальными данными могут привести к юридическим последствиям, штрафам, репутационным и финансовым потерям." vertex="1">
+          <mxGeometry height="120" width="200" x="1080" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Y333cKRLgZ88Y45ONLLd-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Утечка секретной информации может привести к финансовым и репутационным потерям. Утеря или искажение данных может привести к неработоспособности системы (например, невозможности расшифровки)" vertex="1">
+          <mxGeometry height="120" width="200" x="1080" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
